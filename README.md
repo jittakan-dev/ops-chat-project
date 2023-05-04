@@ -6,6 +6,7 @@ This site uses most of the recognized stack, including Spring Boot, Spring webso
 
 *Not all features of the system are included in the repo due to confidentiality, unfinished code, and some other excuses.
 
+<br/>
 Public channel will be default when enter the chat.
 
 ![OPSCHAT-1](ops-chat-client/src/images/OPSCHAT-1.jpg)
