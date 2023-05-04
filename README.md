@@ -9,4 +9,4 @@ This site uses most of the recognized stack, including Spring Boot, Spring webso
 ![OPSCHAT-1](ops-chat-client/src/images/OPSCHAT-1.jpg)
 
 
-![OPSCHAT-2](ops-chat-client/src/images/OPSCHAT-2.jpg)
+![OPSCHAT-2](ops-chat-client/src/images/OPSCHAT-2.png)
